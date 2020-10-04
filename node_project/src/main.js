@@ -44,6 +44,12 @@ if (programOptions.output)
         process.exit(1);
     }
 
+if(isNaN(programOptions.shift)){
+    logger.printError(
+        'ERROR: shift must be number: ' + programOptions.shift
+    );
+    process.exit(1);
+}
 
 
 const newTransform = new Transform({

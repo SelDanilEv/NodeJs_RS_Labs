@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd363599-a9d8-4b0c-a7e8-04fe202c8026" name="Default Changelist" comment="" />
+    <list default="true" id="cd363599-a9d8-4b0c-a7e8-04fe202c8026" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1iNW0znloYo49M5gTovOjvRx0PK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +40,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Download/node.js_RS-school-master/caesar-cipher-cli" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
@@ -39,7 +55,7 @@
     <configuration name="encryption.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/encryption.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
-    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" application-parameters="node main -a encode -s 0 " nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/src">
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" application-parameters="node main -a encode -s 0" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <list>
@@ -62,17 +78,29 @@
       <option name="presentableId" value="Default" />
       <updated>1601748311197</updated>
       <workItem from="1601748312239" duration="28372000" />
+      <workItem from="1601843876525" duration="148000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601843238463">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601843992346">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-2560.-442.2560.1400@0.0.1280.680" timestamp="1601843238463" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-2560.-442.2560.1400@0.0.1280.680" timestamp="1601843992346" />
     <state x="396" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601830755066">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -85,22 +113,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680/-2560.-442.2560.1400@0.0.1280.680" timestamp="1601839911080" />
-    <state width="1259" height="311" key="GridCell.Tab.0.bottom" timestamp="1601843721608">
+    <state width="1273" height="257" key="GridCell.Tab.0.bottom" timestamp="1601843994330">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="311" key="GridCell.Tab.0.bottom/0.0.1280.680/-2560.-442.2560.1400@0.0.1280.680" timestamp="1601843721608" />
-    <state width="1259" height="311" key="GridCell.Tab.0.center" timestamp="1601843721608">
+    <state width="1273" height="257" key="GridCell.Tab.0.bottom/0.0.1280.680/-2560.-442.2560.1400@0.0.1280.680" timestamp="1601843994330" />
+    <state width="1273" height="257" key="GridCell.Tab.0.center" timestamp="1601843994330">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="311" key="GridCell.Tab.0.center/0.0.1280.680/-2560.-442.2560.1400@0.0.1280.680" timestamp="1601843721608" />
-    <state width="1259" height="311" key="GridCell.Tab.0.left" timestamp="1601843721608">
+    <state width="1273" height="257" key="GridCell.Tab.0.center/0.0.1280.680/-2560.-442.2560.1400@0.0.1280.680" timestamp="1601843994330" />
+    <state width="1273" height="257" key="GridCell.Tab.0.left" timestamp="1601843994329">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="311" key="GridCell.Tab.0.left/0.0.1280.680/-2560.-442.2560.1400@0.0.1280.680" timestamp="1601843721608" />
-    <state width="1259" height="311" key="GridCell.Tab.0.right" timestamp="1601843721608">
+    <state width="1273" height="257" key="GridCell.Tab.0.left/0.0.1280.680/-2560.-442.2560.1400@0.0.1280.680" timestamp="1601843994329" />
+    <state width="1273" height="257" key="GridCell.Tab.0.right" timestamp="1601843994330">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="311" key="GridCell.Tab.0.right/0.0.1280.680/-2560.-442.2560.1400@0.0.1280.680" timestamp="1601843721608" />
+    <state width="1273" height="257" key="GridCell.Tab.0.right/0.0.1280.680/-2560.-442.2560.1400@0.0.1280.680" timestamp="1601843994330" />
     <state width="1259" height="311" key="GridCell.Tab.1.bottom" timestamp="1601843721608">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
