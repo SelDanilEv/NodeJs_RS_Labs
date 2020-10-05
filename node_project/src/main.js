@@ -39,14 +39,14 @@ if (programOptions.input)
 if (programOptions.output)
     if (!fm.isExits(programOptions.output)) {
         logger.printError(
-            'ERROR: file doesn\'t exist: ' + programOptions.output
+            '\nERROR: file doesn\'t exist: ' + programOptions.output
         );
         process.exit(1);
     }
 
-if(isNaN(programOptions.shift)){
+if (isNaN(programOptions.shift)) {
     logger.printError(
-        'ERROR: shift must be number: ' + programOptions.shift
+        '\nERROR: shift must be number: ' + programOptions.shift
     );
     process.exit(1);
 }
@@ -71,7 +71,7 @@ const newTransform = new Transform({
 pipeline(
     programOptions.input ? fs.createReadStream(programOptions.input) : process.stdin,
     newTransform,
-    programOptions.output ? fs.createWriteStream(programOptions.output) : process.stdout,
+    programOptions.output ? fs.createWriteStream(programOptions.output, {flags: 'a+'}) : process.stdout,
     (err) => {
         if (err) {
             console.error('Pipeline failed.', err);
